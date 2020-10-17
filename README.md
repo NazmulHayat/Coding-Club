@@ -1,4 +1,4 @@
-#Beginner:
+# Beginner:
 
 1.  Fundamental types and Variable
 
@@ -36,7 +36,7 @@
     1.  .length(), .find(), .rfind(), getline(), insert(), erase(),
     substr(), pop\_back()
 
-#Advanced:
+# Advanced:
 
 1.  Arrays (single/multi-dimensional)
 
