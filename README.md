@@ -2,7 +2,7 @@
 
 Syllabus:-
 
-Beginner:
+# Beginner:
 1.	Fundamental types and Variable
 I.	4 integer types + unsigned
 II.	Float, double, long double
@@ -21,7 +21,7 @@ II.	While loop
 I.	[], + and relation operators
 II.	.length(), .find(), .rfind(), getline(), insert(), erase(), substr(), pop_back()
 
-Advanced:
+# Advanced:
 1.	Arrays (single/multi-dimensional)
 2.	Functions:
 I.	Basics
