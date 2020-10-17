@@ -2,25 +2,18 @@
 
 1.  Fundamental types and Variable
 
-<!-- -->
+    1.  4 integer types + unsigned
 
-1.  4 integer types + unsigned
+    1.  Float, double, long double
 
-2.  Float, double, long double
+    1.  bool, char, string
 
-3.  bool, char, string
-
-4.  Variable naming rules
-
-<!-- -->
+    1.  Variable naming rules
 
 1.  Arithmetic operators
 
-<!-- -->
+    1.  \+ - \* / % ()
 
-1.  \+ - \* / % ()
-
-<!-- -->
 
 1.  Input/Output
 
