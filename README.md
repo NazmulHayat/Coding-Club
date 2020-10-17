@@ -12,29 +12,29 @@
 
 ## 2.  Arithmetic operators
 
-    i.  \+ - \* / % ()
+      i.  \+ - \* / % ()
 
 ## 3.  Input/Output
 
 ## 4.  Conditional Statements
 
-     i.  If, else if, else and relation operators (==, &lt;, &gt;,
-    &lt;=, &gt;=, &&, \|\|, !)
+      i.  If, else if, else and relation operators (==, &lt;, &gt;,
+         &lt;=, &gt;=, &&, \|\|, !)
 
-    ii.  Switch, case, default
+     ii.  Switch, case, default
 
 ## 5.  Loops
 
-     i.  For loop
+      i.  For loop
 
-    ii.  While loop
+     ii.  While loop
 
 ## 6.  String manipulation
 
-     i.  \[\], + and relation operators
+      i.  \[\], + and relation operators
 
-    ii.  .length(), .find(), .rfind(), getline(), insert(), erase(),
-         substr(), pop\_back()
+     ii.  .length(), .find(), .rfind(), getline(), insert(), erase(),
+          substr(), pop\_back()
 
 # Advanced:
 
@@ -42,7 +42,7 @@
 
 ## 2.  Functions:
 
-     i.  Passing parameters as values or references, function calling.
+      i.  Passing parameters as values or references, function calling.
 
      ii.  Function overloading and Templates
 
@@ -52,7 +52,7 @@
 
 ## 4.  STL Containers
 
-     i.  Vectors + Random access iterators
+      i.  Vectors + Random access iterators
 
      ii.  Lists + bi-directional Iterators
 
