@@ -1,14 +1,14 @@
 # Beginner:
 
-## 1.  Fundamental types and Variable
+      ## 1.  Fundamental types and Variable
 
-      i.  4 integer types + unsigned
+            i.  4 integer types + unsigned
 
-     ii.  Float, double, long double
+           ii.  Float, double, long double
 
-    iii.  bool, char, string
+          iii.  bool, char, string
 
-     iv.  Variable naming rules
+           iv.  Variable naming rules
 
 ## 2.  Arithmetic operators
 
