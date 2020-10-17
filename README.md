@@ -12,7 +12,7 @@
 
 ## 2.  Arithmetic operators
 
-      i.  \+ - \* / % ()
+      i.  + - * / % ()
 
 ## 3.  Input/Output
 
