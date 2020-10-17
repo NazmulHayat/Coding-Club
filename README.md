@@ -2,13 +2,13 @@
 
 ## 1.  Fundamental types and Variable
 
-     i.  4 integer types + unsigned
+      i.  4 integer types + unsigned
 
-    ii.  Float, double, long double
+     ii.  Float, double, long double
 
-   iii.  bool, char, string
+    iii.  bool, char, string
 
-    iv.  Variable naming rules
+     iv.  Variable naming rules
 
 ## 2.  Arithmetic operators
 
@@ -18,23 +18,23 @@
 
 ## 4.  Conditional Statements
 
-    i.  If, else if, else and relation operators (==, &lt;, &gt;,
+     i.  If, else if, else and relation operators (==, &lt;, &gt;,
     &lt;=, &gt;=, &&, \|\|, !)
 
-   ii.  Switch, case, default
+    ii.  Switch, case, default
 
 ## 5.  Loops
 
-    i.  For loop
+     i.  For loop
 
-   ii.  While loop
+    ii.  While loop
 
 ## 6.  String manipulation
 
-    i.  \[\], + and relation operators
+     i.  \[\], + and relation operators
 
-   ii.  .length(), .find(), .rfind(), getline(), insert(), erase(),
-        substr(), pop\_back()
+    ii.  .length(), .find(), .rfind(), getline(), insert(), erase(),
+         substr(), pop\_back()
 
 # Advanced:
 
@@ -42,27 +42,27 @@
 
 ## 2.  Functions:
 
-    i.  Passing parameters as values or references, function calling.
+     i.  Passing parameters as values or references, function calling.
 
-   ii.  Function overloading and Templates
+     ii.  Function overloading and Templates
 
-  iii.  Recursion
+    iii.  Recursion
 
 ## 3.  Debugging
 
 ## 4.  STL Containers
 
-    i.  Vectors + Random access iterators
+     i.  Vectors + Random access iterators
 
-   ii.  Lists + bi-directional Iterators
+     ii.  Lists + bi-directional Iterators
 
-  iii.  Queue, stack, deque
+    iii.  Queue, stack, deque
 
-   iv.  Sets and multisets
+     iv.  Sets and multisets
 
-    v.  Maps and multimaps
+      v.  Maps and multimaps
 
-   vi.  Bitsets and bit manipulation
+     vi.  Bitsets and bit manipulation
 
 ## 5.  Classes and structures
 
