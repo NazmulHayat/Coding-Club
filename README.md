@@ -18,8 +18,7 @@
 
 ## 4.  Conditional Statements
 
-      i.  If, else if, else and relation operators (==, &lt;, &gt;,
-         &lt;=, &gt;=, &&, \|\|, !)
+      i.  If, else if, else and relation operators (==, >, <, >=, <=, &&, \|\|, !)
 
      ii.  Switch, case, default
 
