@@ -30,10 +30,11 @@
 
 ## 6.  String manipulation
 
-      i.  \[\], + and relation operators
+      i.  [], + and relation operators
 
      ii.  .length(), .find(), .rfind(), getline(), insert(), erase(),
-          substr(), pop\_back()
+          substr(), pop_back()
+
 
 # Advanced:
 
