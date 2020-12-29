@@ -27,6 +27,8 @@
       i.  For loop
 
      ii.  While loop
+     
+    iii.  Do..While Loop
 
 ## 6.  String manipulation
 
