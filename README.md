@@ -37,12 +37,11 @@
      ii.  .length(), .find(), .rfind(), getline(), insert(), erase(),
           substr(), pop_back()
 
+## 7.  Arrays (single/multi-dimensional)
 
 # Advanced:
 
-## 1.  Arrays (single/multi-dimensional)
-
-## 2.  Functions:
+## 1.  Functions:
 
       i.  Passing parameters as values or references, function calling.
 
@@ -50,9 +49,9 @@
 
     iii.  Recursion
 
-## 3.  Debugging
+## 2.  Debugging
 
-## 4.  STL Containers
+## 3.  STL Containers
 
       i.  Vectors + Random access iterators
 
@@ -66,6 +65,6 @@
 
      vi.  Bitsets and bit manipulation
 
-## 5.  Classes and structures
+## 4.  Classes and structures
 
-## 6.  pointers
+## 5.  pointers
