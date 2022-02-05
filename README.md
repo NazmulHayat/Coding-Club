@@ -30,14 +30,14 @@
      
     iii.  Do..While Loop
 
-## 6.  String manipulation
+## 6.  Arrays (single/multi-dimensional)
+
+## 7.  String manipulation
 
       i.  [], + and relation operators
 
      ii.  .length(), .find(), .rfind(), getline(), insert(), erase(),
           substr(), pop_back()
-
-## 7.  Arrays (single/multi-dimensional)
 
 # Advanced:
 
